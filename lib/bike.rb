@@ -1,4 +1,4 @@
-class Bike
+class Bikes
   def working?
     true
   end
